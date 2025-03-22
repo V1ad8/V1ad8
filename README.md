@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-A passionate second-year student in computer science with a solid foundation in data structures, algorithms,
-and programming; and a current Hackademy 2 volunteer. Enthusiastic about problem-solving and constantly
-improving technical skills through independent work and courses. Eager to use their knowledge in a real-world
-situation by doing an internship.
+I am passionate second-year student in computer science with a solid foundation in data structures, algorithms, and programming; and a current Hackademy 2 volunteer.
+I'm enthusiastic about problem-solving and constantly improving technical skills through independent work and courses.
+I'm eager to use their knowledge in a real-world situation by doing an internship.
 
 <!--
 **V1ad8/V1ad8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
